@@ -1,0 +1,43 @@
+{
+  "name": "munich-golf",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@tailwindcss/typography": "^0.5.15",
+    "@tiptap/extension-image": "^2.9.1",
+    "@tiptap/extension-link": "^2.9.1",
+    "@tiptap/pm": "^2.9.1",
+    "@tiptap/react": "^2.9.1",
+    "@tiptap/starter-kit": "^2.9.1",
+    "@types/nodemailer": "^6.4.16",
+    "autoprefixer": "^10.4.20",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^10.18.0",
+    "lucide-react": "^0.460.0",
+    "next": "13.5.4",
+    "nodemailer": "^6.9.16",
+    "postcss": "^8.4.49",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-google-recaptcha": "^3.1.0",
+    "react-hot-toast": "^2.4.1",
+    "resend": "^4.0.1-alpha.0",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.8.1",
+    "@types/node": "^20.8.4",
+    "@types/react": "^18.2.27",
+    "@types/react-dom": "^18.2.12",
+    "eslint": "^8.51.0",
+    "eslint-config-next": "13.5.4"
+  }
+}
