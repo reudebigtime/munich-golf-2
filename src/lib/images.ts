@@ -6,6 +6,7 @@ export const images = {
   
   // Training Images
   golfTraining: 'https://images.unsplash.com/photo-1596548438137-d51ea5c83ca5?auto=format&fit=crop&q=80',
+  golfSwing: 'https://images.unsplash.com/photo-1461353789837-8eb180f968d2?auto=format&fit=crop&q=80',
   
   // Course Images
   beginnerCourse: 'https://images.unsplash.com/photo-1592919505780-303950717480?auto=format&fit=crop&q=80',
